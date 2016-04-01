@@ -1,0 +1,25 @@
+{
+  "name": "mo39",
+  "version": "1.0.0",
+  "description": "仰望 **Ingress** 高端玩家 **39M**, 检验字符串是否是 “膜 39”",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rccoder/mo39.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rccoder/mo39/issues"
+  },
+  "homepage": "https://github.com/rccoder/mo39#readme",
+  "dependencies": {
+    "noop3": "^13.7.2"
+  },
+  "devDependencies": {
+    "tap": "^5.7.0"
+  }
+}
